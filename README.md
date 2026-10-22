@@ -2,7 +2,7 @@
 
 A small web app I built to run my own job search, with an AI assistant inside. This repository holds the English demo with fictional data.
 
-**Live demo:** _link added after deploy_ · **Designer:** Iryna Zakharenko, Sydney · [Portfolio](https://irynazakharenko.netlify.app)
+**Live demo:** [iz-job-search-hq.netlify.app](https://iz-job-search-hq.netlify.app) · **Designer:** Iryna Zakharenko, Sydney · [Portfolio](https://irynazakharenko.netlify.app)
 
 ![Today screen](screenshots/today.png)
 
